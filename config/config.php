@@ -3,4 +3,4 @@
 	define('DB_HOST', 'db4free.net');
 	define('DB_USER', 'bloguname');
 	define('DB_PASS', 'blogpassword');
-	define('DB_NAME', 'blogdbdemo');
+	define('DB_NAME', 'blogdemodb');
